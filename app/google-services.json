@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255223120727",
+    "firebase_url": "https://announcementproject-630b8.firebaseio.com",
+    "project_id": "announcementproject-630b8",
+    "storage_bucket": "announcementproject-630b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255223120727:android:9bcbe8ca6c9eadf1",
+        "android_client_info": {
+          "package_name": "com.example.zeph1.announcementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255223120727-5pjqkb9qhrt297tld0l5nq4gddqdcdtr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zeph1.announcementapp",
+            "certificate_hash": "0e84116e08d63f27a6e334e4276f88f2db5d1ba7"
+          }
+        },
+        {
+          "client_id": "255223120727-81keqccf7urgvr9d0o9t26gunmbjtvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo6s7oVC6xRrRt14GVlK37YfAGF03EFik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255223120727-81keqccf7urgvr9d0o9t26gunmbjtvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
